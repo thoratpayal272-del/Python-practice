@@ -1,2 +1,2 @@
 # Python-practice
-print("hello i am payal")
+print("hello its the 1st python program")
